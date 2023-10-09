@@ -1,0 +1,20 @@
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.exe.config
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.exe
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.pdb
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.Form1.resources
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.Properties.Resources.resources
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.exe
+C:\Users\simon\Desktop\UdeA, cursos\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.pdb
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.exe.config
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.exe
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\bin\Debug\SerpienteJuego.pdb
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csproj.AssemblyReference.cache
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.Form1.resources
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.Properties.Resources.resources
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csproj.GenerateResource.cache
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.exe
+C:\Users\SIMON\Desktop\UdeA\Logica Y Representacion\SerpienteJuego-Proyecto\SerpienteJuego\obj\Debug\SerpienteJuego.pdb
